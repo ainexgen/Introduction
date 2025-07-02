@@ -18,12 +18,19 @@ We are a tech-forward company pioneering smart solutions powered by **Artificial
 
 At **AiNexGen**, we build intelligent and scalable tech solutions for startups, enterprises, and individuals:
 
-- 🤖 AI/ML Solutions  
-- 📊 Data Analytics & Visualization  
-- 🧠 NLP & Chatbot Development  
-- 🌐 Web Development & SaaS Tools  
-- 📱 Mobile App Solutions  
-- 🛡️ Business Intelligence & Cybersecurity  
+🤖 AI & Machine Learning
+
+🧠 Generative AI Solutions
+
+📊 Data Science & Analytics
+
+🌐 Web Development & Design
+
+🎨 Graphic Design & Multimedia
+
+🚀 Digital Marketing & SEO
+
+📈 Business Strategy & Consulting
 
 We aim to **empower organizations with AI-driven tools** that boost productivity, efficiency, and growth.
 
